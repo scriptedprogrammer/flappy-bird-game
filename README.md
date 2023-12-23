@@ -62,3 +62,6 @@ Feel free to contribute to the improvement of this Flappy Bird game. You can sub
 ## License
 
 This Flappy Bird Game is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Have fun playing!
+
+
+                                         THANKYOU FOR VISITING  https://github.com/scriptedprogrammer
